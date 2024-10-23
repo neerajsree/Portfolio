@@ -1,0 +1,16 @@
+.nav {
+    background-color: rgb(211, 87, 29);                /* Text color */
+    font-size: medium;         /* Font size */
+    display: flex;             /* Use flexbox for alignment */
+    align-items: flex-end;     /* Align items to the end (bottom) */
+    margin-left: auto; 
+    justify-content: flex-end;
+  /* Auto margin to push to the right */
+}
+.edu{
+    margi
+}
+.nav a{
+    color: aqua;
+}
+
